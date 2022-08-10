@@ -1,3 +1,3 @@
 # test-repo
 Just playing around
-THis is a new ==cool== feature.
+This is a new **cool** feature.
